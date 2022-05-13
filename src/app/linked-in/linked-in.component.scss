@@ -179,6 +179,9 @@ input{
     vertical-align: baseline;
     background: transparent;
 }
+
+
+
 .author-profile-card{
     background-color: #fff;
     border-radius: 8px;
@@ -190,6 +193,38 @@ input{
     border: 1px solid rgb(206, 206, 206);
 
 }
+
+@media only screen and (min-width:200px) {
+   .img_3_2 {
+        margin-top: 134px;
+        margin-left: 16px;
+        border: none;
+        z-index: 100;
+    }
+}
+@media only screen and (min-width:500px) {
+    .img_3_2 {
+         margin-top: 10px;
+         margin-left: 16px;
+         border: none;
+         z-index: 100;
+     }
+ }
+// .img_3_2 {
+//     margin-top: 15px;
+//     margin-left: 16px;
+//     border: none;
+//     z-index: 100;
+// }
+
+// .author-profile-card .img_3_2 {
+//     margin-top: 15px;
+//     margin-left: 16px;
+//     border: none;
+//     z-index: 100;
+// }
+
+
 .cover-img__image-frame{
     position: relative;
     width: 100%;
@@ -217,6 +252,8 @@ input{
     border: none;
     z-index: 100;
 }
+
+
 .img_3_2{
     width: 70px;
     position: absolute;
