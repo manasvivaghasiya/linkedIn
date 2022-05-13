@@ -1,0 +1,239 @@
+.linkedin_header{
+    // margin: 0px 250px;
+    padding: 0 16px;
+    background: #fff;
+    // margin-top: 10px;
+    // display: flex;
+    // justify-content: center;
+
+}
+.nav{
+   
+        width: 1128px;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 12px 0 16px;
+}
+.img_linkedin{
+    width: 150px;
+    margin-right: 15px;
+}
+
+// nav{
+//     background-color: #ebeff1;
+// }
+input{
+    background-color: #e9eeef;
+    padding: 0 63px;
+}
+.dropdown{
+    background-color: #e9eeef;
+
+}
+.people{
+    color: gray;
+}
+.search{
+    background-color: #e9eeef;
+}
+.join{
+    color: gray;
+    margin:0px 15px;
+}
+.sign{
+    border-radius: 16px;
+    border-color: #1b68bb;
+    color: #1b68bb;
+}
+
+// --------main-section----
+.main{
+    padding-top: 16px;
+    width: 1128px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+.core-rail{
+    width: 624px;
+    margin-left: 166px;
+}
+
+.core-rail .details{
+    margin:0px;
+}
+
+.title{
+    font-size: 30px;
+    font-weight: 450;
+    color: rgba(0,0,0,0.9);
+    line-height: 30px;
+    margin-bottom: 16px;
+}
+
+.section_1{
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    border: 1px solid rgb(206, 206, 206);
+
+    vertical-align: baseline;
+    background: transparent;
+}
+.share-update-card{
+    margin-bottom: 12px;
+    overflow: visible;
+    border-radius: 8px;
+
+}
+.share-update-card-header{
+    display: flex;
+    align-items: center;
+    padding: 12px 16px;
+}
+.img_3{
+   width: 50px;
+}
+.share-update-card__actor-info{
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    margin-left: 8px;
+    // margin-bottom: 5px;
+}
+
+.share-update-card__actor-text{
+    font-size: 12px;
+    line-height: 1.42857;
+    font-weight: 500;
+    color: rgba(0,0,0,0.9);
+    margin: 0;
+}
+.share-update-card__actor-headline{
+    font-size: 12px;
+    line-height: 1.33333;
+    font-weight: 400;
+    color: rgba(0,0,0,0.6);
+    margin: 0;
+}
+// .share-update-card__ellipsis-menu {
+//     margin-right: 4px;
+// }
+// .ellipsis-menu {
+//     position: absolute;
+//     right: 0;
+//     top: 0;
+// }
+
+// .collapsible-dropdown{
+//     display: flex;
+//     -webkit-box-align: center;
+//     -ms-flex-align: center;
+//     align-items: center;
+//     position: relative;
+//     -webkit-hyphens: auto;
+//     -ms-hyphens: auto;
+//     hyphens: auto;
+// }
+.card_text{
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 14px;
+    padding: 0 16px;
+}
+
+.card_text a{
+    color: #1b68bb;
+    font-weight: 600;
+}
+.share-images {
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    overflow: hidden;
+    padding: 0;
+}
+.share-images__image-container{
+    background: #f3f6f8;
+    display: flex;
+    position: relative;
+    // text-align: left;
+}
+.img_4{
+    width: 100%;
+    object-position: center;
+    object-fit: cover;
+}
+.right-rail{
+    width: 314px;
+    margin-left: 24px;
+}
+.section{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+.author-profile-card{
+    background-color: #fff;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    max-width: 600px;
+    margin-bottom: 48px;
+    // border: 1px solid gray;
+    border: 1px solid rgb(206, 206, 206);
+
+}
+.cover-img__image-frame{
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
+.cover-img__image-position{
+    // position: absolute;
+    top: 1;
+    right: 10;
+    bottom:10;
+    left: 10;
+}
+.cover-img__image{
+    position: relative;
+    border-radius: 8px;  
+    width: 100%;
+    height: 85px;
+    -o-object-fit: cover;
+    object-fit: cover;
+}
+
+.author-profile-card .artdeco-entity-image {
+    margin-top: -36px;
+    margin-left: 16px;
+    border: none;
+    z-index: 100;
+}
+.img_3_2{
+    width: 70px;
+    position: absolute;
+    top: 130px;
+    border-radius: 50%;
+
+ }
+ .view_profile{
+     font-size: 15px;
+     color: gray;
+ }
+
+ a{
+    color: #1b68bb;
+ }
+ 
+ .btn-outline-secondary{
+    border-radius: 16px;
+    // border-color: #1b68bb;
+    // color: #1b68bb;
+ }
