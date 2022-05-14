@@ -7,13 +7,17 @@
     // justify-content: center;
 
 }
-.navbar{
-   
-        width: 1128px;
-        margin-left: auto;
-        margin-right: auto;
-        padding: 12px 0 16px;
+.linkedin{
+    display: flex;
+    justify-content: center;
 }
+// .navbar{
+   
+//         width: 1128px;
+//         margin-left: auto;
+//         margin-right: auto;
+//         padding: 12px 0 16px;
+// }
 
 .img_linkedin{
     width: 150px;
@@ -77,7 +81,6 @@ input{
     padding: 0;
     font-size: 100%;
     border: 1px solid rgb(206, 206, 206);
-
     vertical-align: baseline;
     background: transparent;
 }
@@ -196,7 +199,7 @@ input{
 
 @media only screen and (min-width:200px) {
    .img_3_2 {
-        margin-top: 134px;
+        margin-top: 14px;
         margin-left: 16px;
         border: none;
         z-index: 100;
@@ -204,7 +207,7 @@ input{
 }
 @media only screen and (min-width:500px) {
     .img_3_2 {
-         margin-top: 10px;
+         margin-top: 5px;
          margin-left: 16px;
          border: none;
          z-index: 100;
